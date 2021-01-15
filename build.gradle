@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.sulgik.minotated'
+version '1.0-SNAPSHOT'
+
+dependencies {
+
+}
